@@ -1,7 +1,7 @@
 # blog
 
 - **template of:** vite + react + typescript
-- **tailwindcss:** v3.x
+- **tailwindcss:** v3
 
 ## Started
 ```bash
