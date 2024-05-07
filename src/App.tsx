@@ -1,9 +1,9 @@
-import { useState } from "react";
-
 function App() {
-  const [count, setCount] = useState(0);
-
-  return <div className="text-center selection:bg-green-900"></div>;
+  return (
+    <div className="text-center selection:bg-green-900">
+      doing linked lists sucks
+    </div>
+  );
 }
 
 export default App;
